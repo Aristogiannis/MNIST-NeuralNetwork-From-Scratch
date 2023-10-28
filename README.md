@@ -1,1 +1,1 @@
-# MNIST-NeuralNetwork-From-Scratch
+# MNIST NeuralNetwork From Scratch
