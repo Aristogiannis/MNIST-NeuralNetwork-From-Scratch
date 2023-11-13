@@ -1,5 +1,6 @@
 # MNIST NeuralNetwork From Scratch
 Functions:
+
 (1)	guess_the_params(size)
 Responsible for initializing the weights and biases of the neural network.
 “size” parameter represents the dimensions of the image in pixels.
